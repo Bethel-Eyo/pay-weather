@@ -1,4 +1,4 @@
-export const API_URL = "http://api.openweathermap.org/data/2.5/forecast?q=";
+export const API_URL = "https://api.openweathermap.org/data/2.5/forecast?q=";
 export const APP_ID = "75f972b80e26f14fe6c920aa6a85ad57";
 
 export const mockedWeather = [

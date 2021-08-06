@@ -89,7 +89,7 @@ const App = () => {
           <>
             {weatherData == null ? (
               <Typography variant="h6" className={classes.text}>
-                Please search for a valid location
+                Oops! Please search for a valid location.
               </Typography>
             ) : (
               <Typography variant="h6" className={classes.text}>
