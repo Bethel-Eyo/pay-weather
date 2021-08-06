@@ -1,0 +1,9 @@
+export const SET_WEATHER_DATA = "SET_WEATHER_DATA";
+export const SET_FIVE_DAYS_FORECAST = "SET_FIVE_DAYS_FORECAST";
+
+export const LOADING = "LOADING";
+
+export const SET_CELSIUS = "SET_CELSIUS";
+export const SET_BARCHART_DATA = "SET_BARCHART_DATA";
+
+export const SET_CITY = "SET_CITY";
