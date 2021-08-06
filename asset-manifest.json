@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pay-weather/static/css/main.67ee7d61.chunk.css",
-    "main.js": "/pay-weather/static/js/main.b12ee2ff.chunk.js",
-    "main.js.map": "/pay-weather/static/js/main.b12ee2ff.chunk.js.map",
+    "main.js": "/pay-weather/static/js/main.5bd378ab.chunk.js",
+    "main.js.map": "/pay-weather/static/js/main.5bd378ab.chunk.js.map",
     "runtime-main.js": "/pay-weather/static/js/runtime-main.97291be3.js",
     "runtime-main.js.map": "/pay-weather/static/js/runtime-main.97291be3.js.map",
     "static/css/2.a19da80a.chunk.css": "/pay-weather/static/css/2.a19da80a.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.a19da80a.chunk.css",
     "static/js/2.ea8da6ea.chunk.js",
     "static/css/main.67ee7d61.chunk.css",
-    "static/js/main.b12ee2ff.chunk.js"
+    "static/js/main.5bd378ab.chunk.js"
   ]
 }
