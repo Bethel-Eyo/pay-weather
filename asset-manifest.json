@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pay-weather/static/css/main.67ee7d61.chunk.css",
+    "main.js": "/pay-weather/static/js/main.8289e034.chunk.js",
+    "main.js.map": "/pay-weather/static/js/main.8289e034.chunk.js.map",
+    "runtime-main.js": "/pay-weather/static/js/runtime-main.97291be3.js",
+    "runtime-main.js.map": "/pay-weather/static/js/runtime-main.97291be3.js.map",
+    "static/css/2.a19da80a.chunk.css": "/pay-weather/static/css/2.a19da80a.chunk.css",
+    "static/js/2.ea8da6ea.chunk.js": "/pay-weather/static/js/2.ea8da6ea.chunk.js",
+    "static/js/2.ea8da6ea.chunk.js.map": "/pay-weather/static/js/2.ea8da6ea.chunk.js.map",
+    "static/js/3.0b081cfb.chunk.js": "/pay-weather/static/js/3.0b081cfb.chunk.js",
+    "static/js/3.0b081cfb.chunk.js.map": "/pay-weather/static/js/3.0b081cfb.chunk.js.map",
+    "index.html": "/pay-weather/index.html",
+    "static/css/2.a19da80a.chunk.css.map": "/pay-weather/static/css/2.a19da80a.chunk.css.map",
+    "static/css/main.67ee7d61.chunk.css.map": "/pay-weather/static/css/main.67ee7d61.chunk.css.map",
+    "static/js/2.ea8da6ea.chunk.js.LICENSE.txt": "/pay-weather/static/js/2.ea8da6ea.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.6266a078.svg": "/pay-weather/static/media/left-arrow.6266a078.svg",
+    "static/media/right-arrow.e4476856.svg": "/pay-weather/static/media/right-arrow.e4476856.svg",
+    "static/media/slick-theme.css": "/pay-weather/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97291be3.js",
+    "static/css/2.a19da80a.chunk.css",
+    "static/js/2.ea8da6ea.chunk.js",
+    "static/css/main.67ee7d61.chunk.css",
+    "static/js/main.8289e034.chunk.js"
+  ]
+}
