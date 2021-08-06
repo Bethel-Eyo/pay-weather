@@ -26,12 +26,12 @@ const useStyles = makeStyles((theme) => ({
   root: {
     "& > *": {
       margin: theme.spacing(1),
-      width: "85%"
+      width: "85%",
     },
   },
   text: {
-    margin: 5
-  }
+    margin: 5,
+  },
 }));
 
 const App = () => {
@@ -134,6 +134,9 @@ const App = () => {
                   celsius={isCelsius}
                   allData={weatherData}
                 />
+                <Typography className={classes.text}>
+                  Click on card above to see details in barchart.
+                </Typography>
                 {barChartData == null ? (
                   <></>
                 ) : (
